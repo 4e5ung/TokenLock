@@ -10,6 +10,9 @@ npx hardhat run ./scripts/deploy.js
 ## 테스트
 npx hardhat test ./test/tokenLock-test.js
 
+## ABI Export
+npx hardhat export-abi
+
 <hr>
 
 ## ERROR CODE
