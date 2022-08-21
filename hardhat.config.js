@@ -56,10 +56,10 @@ module.exports = {
   mocha: {
     timeout: 300000
   },
-  // abiExporter: {
-  //   path: './abi',
-  //   clear: true,
-  //   flat: true,
-  //   except: ['openzeppelin', './token', "./interfaces", "./access", "./utils"]
-  // },
+  abiExporter: {
+    path: './abi',
+    clear: true,
+    flat: true,
+    except: ['openzeppelin', './token', "./interfaces", "./access", "./utils"]
+  },
 };
