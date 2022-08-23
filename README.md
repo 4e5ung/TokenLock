@@ -25,7 +25,7 @@ Error String 정의
 | `TokenLock: E02` |  일치하는 lokcup 정보 없음 |
 | `TokenLock: E03` |  일치하는 lokcup index 없음 |
 | `TokenLock: E04` |  address 유효하지 않음 |
-| `TokenLock: E05` |  토큰 개수가 올바르지 않음음 |
+| `TokenLock: E05` |  토큰 개수가 올바르지 않음 |
 | `TokenLock: E06` |  lockup 기간이 올바르지 않음 |
 
 <hr>
